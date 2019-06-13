@@ -1,5 +1,5 @@
 # PoC.BlurAnimationEffect
-A simple proof of concept to testing animation for UIVisualEffect and transform animations.<br />
+A simple proof of concept to testing animations for UIVisualEffect and CGAffineTransform.<br />
 Special thanks for Brian Advent! (https://www.youtube.com/watch?v=CXvOS6hYADc)
 
 Preview:<br />
